@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.navbar
+{
+    background-color: #4A0A79
+    
+}
+
+h1
+{
+    font-family: 'Erica One', cursive;
+}
+
+.card-body
+{
+    background-color: #E50404
+}
+
+.card-text
+{
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+
+.card-title
+{
+    text-align: center;
+    color:gold;
+    font-size: 30px;
+}
+
+.pie
+{
+    color:aliceblue
+}
